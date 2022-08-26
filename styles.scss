@@ -162,7 +162,7 @@ section {
             .card-text {
                 color: $text-color;
                 text-align: left;
-                @include responsive-font-size(18px);
+                @include responsive-font-size(17px);
             }
             
             .card-btn {

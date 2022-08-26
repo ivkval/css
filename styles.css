@@ -156,11 +156,11 @@ section #card-flex-container .card-styling .card-title {
 section #card-flex-container .card-styling .card-text {
   color: #333333;
   text-align: left;
-  font-size: 18px;
+  font-size: 17px;
 }
 @media screen and (max-width: 800px) {
   section #card-flex-container .card-styling .card-text {
-    font-size: 12.6px;
+    font-size: 11.9px;
   }
 }
 section #card-flex-container .card-styling .card-btn {
